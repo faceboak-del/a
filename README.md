@@ -1,1 +1,1 @@
-[asdf](javascript:alert(1))
+[asdf](javascript:javascript:alert(1))
